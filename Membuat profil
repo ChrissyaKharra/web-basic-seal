@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <title>Chrissya Kharra</title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+        <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css">
+    </head>
+    <body>
+        <!-- header -->
+        <div class="medsos">
+            <div class="container">
+                <ul>
+                    <li><a href="https://wa.me/085604894101"><i class="fab fa-whatsapp"></i></a></li>
+                    <li><a href="https://www.instagram.com/chrissyakhara/"><i class="fab fa-instagram"></i></a></li>
+                    <li><a href="https://www.youtube.com/channel/UCJWbtPm4GLI4qpHLI8OJzIw"><i class="fab fa-youtube"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </body>
+</html>
